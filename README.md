@@ -1,4 +1,4 @@
-**HireQuest**   
+## **HireQuest**   
 A modern **frontend-based job-finding website** that helps users discover jobs based on their skills and various fields.  
 
 ## **About the Project**  
